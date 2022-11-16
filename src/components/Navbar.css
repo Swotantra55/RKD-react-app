@@ -41,5 +41,9 @@
   }
   
   .nav-item a:hover {
-    background: rgb(0, 212, 212);
+    background: #00d4d4;
+    color: white;
+  }
+  nav a.active {
+    color: #00d4d4;
   }
