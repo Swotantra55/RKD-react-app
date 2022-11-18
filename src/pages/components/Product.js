@@ -11,7 +11,6 @@ const Product = () => {
         />
         <hr/></div>)
     })
-    console.log(Data);
     return (
         <div className="">
             {dataArray}
